@@ -17,10 +17,10 @@ public class main{
         muzNot = nots.nextDouble();
         double notOrt = (matNot+fizNot+kimNot+turNot+tarihNot+muzNot)/6;
         if(notOrt>=60){
-            System.out.println("Geçti");
+            System.out.println(notOrt + "ile Geçti");
         }
         else{
-            System.out.println("Kaldı");
+            System.out.println(notOrt+" ile Kaldı");
         }
     }
 }
