@@ -1,3 +1,3 @@
 # NotHesaplama
 
-    ![Not Ortalaması](C:\Users\atomi\OneDrive\Resimler\motOrt.PNG)
+    ![Not Ortalaması](images/motOrt.PNG)
