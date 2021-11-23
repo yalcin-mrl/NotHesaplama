@@ -1,3 +1,3 @@
 # NotHesaplama
 
-    ![Not Ortalaması](images/motOrt.PNG)
+![Not Ortalaması](images/motOrt.PNG)
