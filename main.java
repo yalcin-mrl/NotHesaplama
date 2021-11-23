@@ -16,11 +16,10 @@ public class main{
         System.out.println("Muzik notu gir: ");
         muzNot = nots.nextDouble();
         double notOrt = (matNot+fizNot+kimNot+turNot+tarihNot+muzNot)/6;
-        if(notOrt>=60){
-            System.out.println(notOrt + "ile Geçti");
-        }
-        else{
-            System.out.println(notOrt+" ile Kaldı");
-        }
+        boolean gecti = notOrt >= 60;
+        String gectiMi = gecti ? "Geçti,":"kaldı";
+        System.out.println(notOrt +" ile "+gectiMi);
+
+
     }
 }
