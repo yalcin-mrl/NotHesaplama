@@ -1,0 +1,2 @@
+# NotHesaplama
+Not ort hesaplama
